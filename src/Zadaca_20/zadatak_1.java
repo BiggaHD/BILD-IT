@@ -1,4 +1,4 @@
-package zadaca_20;
+package Zadaca_20;
 
 import java.util.Scanner;
 

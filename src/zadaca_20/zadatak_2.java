@@ -1,4 +1,5 @@
 package zadaca_20;
+
 	public class zadatak_2{
 		
 		static boolean prost(int broj){

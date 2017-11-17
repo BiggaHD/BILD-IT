@@ -6,16 +6,16 @@ public class zadatak_3{
 		final int total = 100;
 		final int linija = 10;
 		int brojac = 1;
-		int broj = 2;
+		int br = 2;
 		
 		while (brojac <= total){
-			  if (jeLLi(broj) && jeLLi2(broj)){
-			     System.out.print(broj + " ");
+			  if (jeLLi(br) && jeLLi2(br)){
+			     System.out.print(br + " ");
 			     if (brojac % linija == 0)
 				 System.out.println();
 			     brojac++;
-			  }   
-			  broj++;
+			  }
+			  br++;
 		}}
     public static boolean jeLLi(int br){
     	if (br == 2)

@@ -18,5 +18,4 @@ package zadaca_20;
 		      for(int b=2; b<=n; b++){
 		          if(prost(b)==true){
 			    	  System.out.println(b + " ");
-			    	   }}}}
-	
+			    	  }}}}

@@ -2,8 +2,8 @@ package zadaca_20;
 
 import java.util.Scanner;
 
-public class zadatak_1 {
-	public static void main(String[] args) {
+public class zadatak_1{
+	public static void main(String[] args){
 		
 		Scanner unos = new Scanner(System.in);
 
@@ -37,5 +37,4 @@ public class zadatak_1 {
 		System.out.println("Uneseni brojevi nakon sortiranja: ");
 
 		System.out.println(broj1 + "\n" + broj2 + "\n" + broj3);
-	}
-}
+	}}

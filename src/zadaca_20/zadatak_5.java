@@ -25,10 +25,9 @@ public class zadatak_5{
         	rikverc *= 10;
         	rikverc += br % 10;
             br /= 10;
-        }
-        return rikverc;
+        } return rikverc;
     }
-
+    
     public static boolean jeLLi2(long br){
         return (br == rikverc(br));
     }}

@@ -1,5 +1,4 @@
 package zadaca_20;
-
 public class zadatak_4{
        		 
 		 public static void main(String[] args){

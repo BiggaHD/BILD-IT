@@ -16,3 +16,4 @@ public class Stednja_Se_Ne_Isplati{
 	        System.out.printf("Nakon %1d mjeseci, stanje na vasem racunu ce biti %.4f", mjeseci, stanje);
 	        unos.close();
 	        }}
+			
